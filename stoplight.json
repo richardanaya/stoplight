@@ -1,8 +1,8 @@
 {
-  "script": "stoplight.js",
+  "script": "./stoplight.js",
   "scenes": [
     {
-      "url":"stoplight.dae",
+      "url":"./stoplight.dae",
       "configuration":{
         "objects":[
           {
