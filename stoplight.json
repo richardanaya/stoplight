@@ -1,0 +1,26 @@
+{
+  "script": "stoplight.js",
+  "scenes": [
+    {
+      "url":"stoplight.dae",
+      "configuration":{
+        "objects":[
+          {
+            "id":"Cube",
+            "materials": [
+              {
+                "id":"Material-material",
+                "type":"color",
+                "color":"gray"
+              },{
+                "id":"Material_001-material",
+                "type":"color",
+                "color":"red"
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
